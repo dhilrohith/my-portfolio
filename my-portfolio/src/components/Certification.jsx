@@ -11,31 +11,31 @@ import CertificateCard from "./CertificateCard";
 
 const certificates = [
     {
-      name: 'Guvi Certification - HTML, CSS, TailwindCSS',
+      name: 'HTML, CSS, TailwindCSS',
       imgSrc: '/images/GuviCertification-HTML,CSS,TailwindCSS.png',
     },
     {
-      name: 'Guvi Certification - React.Js',
+      name: 'React.Js',
       imgSrc: '/images/GuviCertification-Reactjs.png',
     },
     {
-      name: 'Guvi Certification - JS Basics',
+      name: 'JS Basics',
       imgSrc: '/images/GuviCertification-JSbasics.png',
     },
     {
-      name: 'Guvi Certification - Advanced JS',
+      name: 'Advanced JS',
       imgSrc: '/images/GuviCertification-AdvancedJs.png',
     },
     {
-      name: 'Guvi Certification - Node JS',
+      name: 'Node JS',
       imgSrc: '/images/GuviCertification-NodeJs.png',
     },
     {
-      name: 'Guvi Certification - Database',
+      name: 'Database',
       imgSrc: '/images/GuviCertification-Database.png',
     },
     {
-      name: 'Guvi Certification - MERN',
+      name: 'MERN',
       imgSrc: '/images/GuviCertification-Mern.png',
     }
 ];
