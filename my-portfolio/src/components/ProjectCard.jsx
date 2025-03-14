@@ -57,20 +57,25 @@ const ProjectCard = (
         grid place-items-center bg-sky-400
         text-zinc-950 shrink-0"
         >
-          <span 
+          <a 
+          href={projectLink} 
+          target="blank"
+          className="inset-0  grid place-items-center"
+          ><span 
           className="material-symbols-rounded"
           aria-hidden="true"
           >
             arrow_outward
           </span>
+          </a>
         </div>
       </div>
       
-      <a 
+      {/* <a 
       href={projectLink} 
       target="blank"
       className="absolute inset-0"
-      ></a>
+      ></a> */}
 
     </div>
   )

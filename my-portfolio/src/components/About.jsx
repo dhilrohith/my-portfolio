@@ -5,10 +5,6 @@ const About = () => {
         {
           label: 'Projects done.',
           number: 3
-        },
-        {
-          label: 'Year of experience',
-          number: 1
         }
       ];
   return (

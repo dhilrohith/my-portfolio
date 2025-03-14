@@ -12,9 +12,9 @@ import Header from './components/Header'
 import Hero from './components/Hero'
 import Skill from './components/Skill'
 import Work from './components/Work'
-import Review from './components/Review'
 import Contact from './components/Contact'
 import Footer from './components/Footer'
+import Certifications from './components/Certification';
 
 const App = () => {
 
@@ -50,7 +50,7 @@ const App = () => {
         <About/>
         <Skill/>
         <Work/>
-        <Review/>
+        <Certifications/>
         <Contact/>
       </main>
       <Footer/>

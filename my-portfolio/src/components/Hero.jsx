@@ -53,7 +53,7 @@ const Hero = () => {
                 <h2 className="headline-1
                 max-w-[15ch] sm:max-w-[20ch]
                 lg:max-w-[15ch] mt-5 mb-8 lg:mb-10">
-                Building Scalable Modern Websites for the Future
+                Hi! I am Dhil Rohith Enthusiastic Web Developer
                 </h2>
 
                 <div 
@@ -66,20 +66,22 @@ const Hero = () => {
                     />
 
                     <ButtonOutline
-                    href="#about"
-                    label="Scroll down"
-                    icon="arrow_downward"
+                    href="https://github.com/dhilrohith"
+                    label="Github"
+                    icon="arrow_outward"
+                    target="blank"
                     />
                 </div>
             </div>
 
             <div className="lg:block">
   <figure 
-    className="w-full max-w-[480px] ml-auto  
+    className="w-full max-w-[480px] ml-auto
+    bg-gradient-to-t from-sky-800 via-sky-400/40 to-transparent 
     rounded-[60px] overflow-hidden shadow-lg max-[1023px]:hidden"
   >
     <img 
-      src="/images/hero-banner.jpg"
+      src="/images/hero-banner.png"
       width={656}
       height={800}
       alt="Dhil Rohith" 
