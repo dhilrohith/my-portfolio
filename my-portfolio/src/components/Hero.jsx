@@ -53,7 +53,7 @@ const Hero = () => {
                 <h2 className="headline-1
                 max-w-[15ch] sm:max-w-[20ch]
                 lg:max-w-[15ch] mt-5 mb-8 lg:mb-10">
-                Hi! I am Dhil Rohith Enthusiastic Web Developer
+                Hi! I'm Dhil Rohith Enthusiastic Web Developer
                 </h2>
 
                 <div 
