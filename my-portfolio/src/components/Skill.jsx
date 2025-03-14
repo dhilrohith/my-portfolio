@@ -3,11 +3,6 @@ import SkillCard from './SkillCard'
 const Skill = () => {
     const skillItem = [
         {
-          imgSrc: '/images/figma.svg',
-          label: 'Figma',
-          desc: 'Design tool'
-        },
-        {
           imgSrc: '/images/css3.svg',
           label: 'CSS',
           desc: 'User Interface'
@@ -41,6 +36,11 @@ const Skill = () => {
           imgSrc: '/images/tailwindcss.svg',
           label: 'TailwindCSS',
           desc: 'User Interface'
+        },
+        {
+          imgSrc: '/images/postman.svg',
+          label: 'Postman API',
+          desc: 'Testing Tool'
         },
       ];
   return (
