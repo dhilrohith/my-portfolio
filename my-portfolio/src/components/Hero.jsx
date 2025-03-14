@@ -76,12 +76,12 @@ const Hero = () => {
 
             <div className="lg:block">
   <figure 
-    className="w-full max-w-[480px] ml-auto
+    className="w-full max-h-[600px] ml-auto
     bg-gradient-to-t from-sky-800 via-sky-400/40 to-transparent 
     rounded-[60px] overflow-hidden shadow-lg max-[1023px]:hidden"
   >
     <img 
-      src="/images/hero-banner.png"
+      src="/images/profile.jpg"
       width={656}
       height={800}
       alt="Dhil Rohith" 
