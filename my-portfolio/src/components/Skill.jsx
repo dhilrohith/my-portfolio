@@ -42,6 +42,11 @@ const Skill = () => {
           label: 'Postman API',
           desc: 'Testing Tool'
         },
+        {
+          imgSrc: '/images/Jasmine.png',
+          label: 'Jasmine',
+          desc: 'Testing Framework'
+        },
       ];
   return (
     <section className="section">
